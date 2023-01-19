@@ -13,7 +13,7 @@ function NotFoundError() {
     }
     else
     {
-        var Message = "不明なアドレスです。\n\n再度入力情報を確認して下さい。\n\nDevelop Pop-Apple"
+        var Message = "不明なアドレスです。\n\n再度入力情報を確認して下さい。\n\nDevelop by Sakamochan"
         alert(Message)
 
         //Reset
