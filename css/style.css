@@ -58,7 +58,7 @@ body {
 
 .InputTextBox {
     /*font*/
-    font-size: 15px;
+    font-size: 11px;
     text-align: center;
 
     /*margin*/
@@ -74,7 +74,7 @@ body {
 }
 .OutputTextBox {
      /*font*/
-     font-size: 15px;
+     font-size: 11px;
      text-align: center;
 
      /*margin*/
