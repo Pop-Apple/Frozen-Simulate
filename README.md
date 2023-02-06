@@ -12,6 +12,10 @@ Instagramのアカウント作成時に稀に起こる**凍結**を体験でき�
 ## 画像
 <img src="https://github.com/Pop-Apple/Frozen-Simulate/blob/master/assets/Screenshot.png" width="900px" height="600px" alt="Demo">
 
+## 注意事項
+> **Warning**  
+**あなたの実際のInstagramアカウントへの影響は一切ありません**
+
 ## 環境
 
 - [x] Chrome
